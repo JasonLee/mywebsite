@@ -23,7 +23,7 @@ email: j.lee10@outlook.com
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "http://jasonlee.github.io"
 github_username:  jasonlee
-linkedin_username: jason-lee-8a042b153
+linkedin_username: jasonlee-dev
 # Build settings
 theme: minima
 plugins:
