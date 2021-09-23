@@ -29,7 +29,7 @@ url: "http://jasonlee.github.io"
 github_username:  jasonlee
 linkedin_username: jason-lee-8a042b153
 # Build settings
-theme: minima
+theme: jekyll-theme-minimal
 plugins:
   - jekyll-feed
 
